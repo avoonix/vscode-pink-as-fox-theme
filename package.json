@@ -4,7 +4,7 @@
   "description": "A black/pink vscode theme for fluffy foxes :3",
   "version": "0.0.1",
   "publisher": "avoonix",
-  "icon": "icon.png",
+  "icon": "res/icon.png",
   "galleryBanner": {
     "color": "#000000",
     "theme": "dark"
