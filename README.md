@@ -2,6 +2,8 @@
 
 A theme for Visual Studio Code based on the Dark+ builtin theme.
 
+![screenshot](res/screenshot0.png)
+
 ## Font Recommendation
 
 [Fira Code](https://github.com/tonsky/FiraCode)
