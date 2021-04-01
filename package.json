@@ -1,0 +1,39 @@
+{
+  "name": "pink-as-fox",
+  "displayName": "Pink as Fox",
+  "description": "A black/pink vscode theme for fluffy foxes :3",
+  "version": "0.0.1",
+  "publisher": "avoonix",
+  "icon": "icon.png",
+  "galleryBanner": {
+    "color": "#000000",
+    "theme": "dark"
+  },
+  "license": "GPL-3.0-or-later",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/avoonix/vscode-pink-as-fox-theme"
+  },
+  "keywords": [
+    "theme",
+    "pink",
+    "dark",
+    "black",
+    "amoled"
+  ],
+  "engines": {
+    "vscode": "^1.53.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Pink as Fox (black)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pink-as-fox-black-color-theme.json"
+      }
+    ]
+  }
+}
