@@ -75,12 +75,15 @@
     "welcomePage.buttonHoverBackground": "#541c42",
     "debugToolBar.border": "#541c42",
 
+    "editor.lineHighlightBorder": "#ff55c925",
     "peekViewEditor.background": "#ff55c925",
     "sideBar.dropBackground": "#ff55c925",
     "editorGroup.dropBackground": "#ff55c925",
     "list.dropBackground": "#ff55c925",
     "list.hoverBackground": "#ff55c925",
     "widget.shadow": "#ff55c925",
+    "scrollbarSlider.background": "#ff55c925",
+    "scrollbarSlider.hoverBackground": "#ff55c960",
     "list.inactiveSelectionBackground": "#ff55c960",
 
     "button.hoverBackground": "#d647a8",
@@ -88,13 +91,9 @@
     "selection.background": "#802a64",
     "editor.selectionBackground": "#802a64",
     "searchEditor.findMatchBackground": "#802a64",
+    "scrollbarSlider.activeBackground": "#802a64",
 
     "inputValidation.errorForeground": "#e78484",
-
-    "scrollbarSlider.background": "#2b2b2b66",
-    "scrollbarSlider.hoverBackground": "#57575766",
-    "scrollbarSlider.activeBackground": "#68686866",
-    "editor.lineHighlightBorder": "#57575766",
 
     "list.highlightForeground": "#ff95dc",
     "editorBracketMatch.border": "#ff95dc",
