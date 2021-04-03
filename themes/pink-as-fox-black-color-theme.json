@@ -30,6 +30,7 @@
     "welcomePage.buttonBackground": "#000000",
     "editorWidget.background": "#000000",
     "quickInputTitle.background": "#000000",
+    "debugToolBar.background": "#000000",
 
     "foreground": "#ff55c8",
     "focusBorder": "#ff55c8",
@@ -72,6 +73,7 @@
     "settings.dropdownListBorder": "#541c42",
     "editorWidget.border": "#541c42",
     "welcomePage.buttonHoverBackground": "#541c42",
+    "debugToolBar.border": "#541c42",
 
     "peekViewEditor.background": "#ff55c925",
     "sideBar.dropBackground": "#ff55c925",
