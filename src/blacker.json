@@ -8,6 +8,9 @@
     "notificationCenterHeader.background": "#000000",
     "dropdown.background": "#000000",
     "checkbox.background": "#000000",
+    "badge.background": "#000000",
+    "activityBarBadge.background": "#000000",
+    "extensionBadge.remoteBackground": "#000000",
 
     "statusBar.border": "#ff55c8",
     "statusBar.foreground": "#ff55c8",
@@ -17,6 +20,10 @@
     "dropdown.border": "#ff55c8",
     "checkbox.foreground": "#ff55c8",
     "checkbox.border": "#ff55c8",
+
+    "badge.foreground": "#ff95dc",
+    "activityBarBadge.foreground": "#ff95dc",
+    "extensionBadge.remoteForeground": "#ff95dc",
 
     "statusBarItem.hoverBackground": "#ff55c925",
     "statusBarItem.activeBackground": "#ff55c960",

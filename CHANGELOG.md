@@ -19,3 +19,7 @@
 - Pink terminal cursor/selection
 - Pink indent guides
 - Pink line numbers
+
+## 0.4.0
+
+- Update blacker badges
