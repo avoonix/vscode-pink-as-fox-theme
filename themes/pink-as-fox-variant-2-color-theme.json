@@ -9,9 +9,9 @@
     "dropdown.listBackground": "#000000",
     "input.background": "#000000",
     "badge.foreground": "#000000",
-    "activityBar.foreground": "#000000",
-    "activityBar.dropBorder": "#000000",
-    "activityBar.inactiveForeground": "#000000",
+    "activityBar.foreground": "#ff55c8",
+    "activityBar.dropBorder": "#ff55c8",
+    "activityBar.inactiveForeground": "#ffd4f1",
     "editorGroupHeader.tabsBackground": "#000000",
     "tab.inactiveBackground": "#000000",
     "statusBar.foreground": "#000000",
@@ -35,7 +35,6 @@
     "terminalCursor.background": "#000000",
     "checkbox.foreground": "#000000",
     "activityBarBadge.background": "#000000",
-
     "foreground": "#ff55c8",
     "focusBorder": "#ff55c8",
     "icon.foreground": "#ff55c8",
@@ -61,11 +60,10 @@
     "terminalCursor.foreground": "#ff55c8",
     "merge.border": "#ff55c8",
     "statusBarItem.remoteBackground": "#ff55c8",
-    "activityBarBadge.foreground": "#ff55c8",
-    "activityBar.activeBackground": "#ff55c8",
+    "activityBarBadge.foreground": "#ff95dc",
+    "activityBar.activeBackground": "#000000",
     "activityBar.activeBorder": "#ff55c8",
     "activityBar.activeFocusBorder": "#ff55c8",
-
     "sideBar.border": "#541c42",
     "editorGroup.border": "#541c42",
     "editorGroupHeader.tabsBorder": "#541c42",
@@ -86,7 +84,6 @@
     "welcomePage.buttonHoverBackground": "#541c42",
     "debugToolBar.border": "#541c42",
     "editorIndentGuide.background": "#541c42",
-
     "editor.lineHighlightBorder": "#ff55c925",
     "peekViewEditor.background": "#ff55c925",
     "sideBar.dropBackground": "#ff55c925",
@@ -96,37 +93,33 @@
     "widget.shadow": "#ff55c925",
     "scrollbarSlider.background": "#ff55c925",
     "walkThrough.embeddedEditorBackground": "#ff55c925",
-
     "scrollbarSlider.hoverBackground": "#ff55c960",
     "list.inactiveSelectionBackground": "#ff55c960",
-
     "button.hoverBackground": "#d647a8",
     "pickerGroup.foreground": "#d647a8",
-
     "selection.background": "#802a64",
     "editor.selectionBackground": "#802a64",
     "searchEditor.findMatchBackground": "#802a64",
     "scrollbarSlider.activeBackground": "#802a64",
     "terminal.selectionBackground": "#802a64",
-
     "inputValidation.errorForeground": "#e78484",
-
     "textPreformat.foreground": "#ce9178cc",
-
     "list.highlightForeground": "#ff95dc",
     "editorBracketMatch.border": "#ff95dc",
-
     "extensionIcon.starForeground": "#ffd4f1",
     "editorHoverWidget.foreground": "#ffd4f1",
     "editor.foreground": "#ffd4f1",
     "textLink.activeForeground": "#ffd4f1",
     "editorLineNumber.foreground": "#ffd4f1",
-    "activityBar.background": "#ffd4f1",
-    "activityBar.border": "#ffd4f1"
+    "activityBar.background": "#000000",
+    "activityBar.border": "#541c42"
   },
   "tokenColors": [
     {
-      "scope": ["meta.embedded", "source.groovy.embedded"],
+      "scope": [
+        "meta.embedded",
+        "source.groovy.embedded"
+      ],
       "settings": {
         "foreground": "#D4D4D4CC"
       }
@@ -287,7 +280,10 @@
       }
     },
     {
-      "scope": ["meta.preprocessor", "entity.name.function.preprocessor"],
+      "scope": [
+        "meta.preprocessor",
+        "entity.name.function.preprocessor"
+      ],
       "settings": {
         "foreground": "#569CD6CC"
       }
@@ -329,13 +325,19 @@
       }
     },
     {
-      "scope": ["storage.modifier", "keyword.operator.noexcept"],
+      "scope": [
+        "storage.modifier",
+        "keyword.operator.noexcept"
+      ],
       "settings": {
         "foreground": "#569CD6CC"
       }
     },
     {
-      "scope": ["string", "meta.embedded.assembly"],
+      "scope": [
+        "string",
+        "meta.embedded.assembly"
+      ],
       "settings": {
         "foreground": "#CE9178CC"
       }
@@ -369,7 +371,9 @@
       }
     },
     {
-      "scope": ["meta.template.expression"],
+      "scope": [
+        "meta.template.expression"
+      ],
       "settings": {
         "foreground": "#D4D4D4CC"
       }
@@ -555,13 +559,18 @@
       }
     },
     {
-      "scope": ["variable.other.constant", "variable.other.enummember"],
+      "scope": [
+        "variable.other.constant",
+        "variable.other.enummember"
+      ],
       "settings": {
         "foreground": "#4FC1FFCC"
       }
     },
     {
-      "scope": ["meta.object-literal.key"],
+      "scope": [
+        "meta.object-literal.key"
+      ],
       "settings": {
         "foreground": "#9CDCFECC"
       }
@@ -606,7 +615,10 @@
       }
     },
     {
-      "scope": ["keyword.operator.or.regexp", "keyword.control.anchor.regexp"],
+      "scope": [
+        "keyword.operator.or.regexp",
+        "keyword.control.anchor.regexp"
+      ],
       "settings": {
         "foreground": "#DCDCAACC"
       }

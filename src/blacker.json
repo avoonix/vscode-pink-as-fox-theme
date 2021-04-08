@@ -9,10 +9,9 @@
     "dropdown.background": "#000000",
     "checkbox.background": "#000000",
     "badge.background": "#000000",
-    "activityBarBadge.background": "#000000",
     "extensionBadge.remoteBackground": "#000000",
-
-    "statusBar.border": "#ff55c8",
+    "editorGroup.emptyBackground": "#000000",
+    "tab.activeBackground": "#000000",
     "statusBar.foreground": "#ff55c8",
     "statusBarItem.remoteForeground": "#ff55c8",
     "notificationCenterHeader.foreground": "#ff55c8",
@@ -22,7 +21,6 @@
     "checkbox.border": "#ff55c8",
 
     "badge.foreground": "#ff95dc",
-    "activityBarBadge.foreground": "#ff95dc",
     "extensionBadge.remoteForeground": "#ff95dc",
 
     "statusBarItem.hoverBackground": "#ff55c925",
@@ -31,6 +29,8 @@
     "statusBar.debuggingForeground": "#cc6633",
     "statusBar.debuggingBorder": "#cc6633",
     "statusBar.noFolderBorder": "#a033bb",
-    "statusBar.noFolderForeground": "#a033bb"
+    "statusBar.noFolderForeground": "#a033bb",
+
+    "statusBar.border": "#541c42"
   }
 }

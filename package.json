@@ -30,14 +30,19 @@
   "contributes": {
     "themes": [
       {
-        "label": "Pink as Fox (black)",
+        "label": "Pink as Fox (variant 1)",
         "uiTheme": "vs-dark",
-        "path": "./themes/pink-as-fox-black-color-theme.json"
+        "path": "./themes/pink-as-fox-variant-1-color-theme.json"
       },
       {
-        "label": "Pink as Fox (blacker)",
+        "label": "Pink as Fox (variant 2)",
         "uiTheme": "vs-dark",
-        "path": "./themes/pink-as-fox-blacker-color-theme.json"
+        "path": "./themes/pink-as-fox-variant-2-color-theme.json"
+      },
+      {
+        "label": "Pink as Fox (blackest)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pink-as-fox-variant-3-color-theme.json"
       }
     ]
   },

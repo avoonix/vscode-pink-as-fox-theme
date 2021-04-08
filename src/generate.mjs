@@ -20,13 +20,13 @@ const relativePath = (p) => new URL (p, import.meta.url);
 
 // /util
 
-// black
 const theme = readJson(relativePath("base.json"));
-writeJson(relativePath("../themes/pink-as-fox-black-color-theme.json"), theme);
-// /black
+writeJson(relativePath("../themes/pink-as-fox-variant-1-color-theme.json"), theme);
 
-// blacker
+const blackSidebar = readJson(relativePath("black-sidebar.json"));
+Object.assign(theme.colors, blackSidebar.colors)
+writeJson(relativePath("../themes/pink-as-fox-variant-2-color-theme.json"), theme);
+
 const blacker = readJson(relativePath("blacker.json"));
 Object.assign(theme.colors, blacker.colors)
-writeJson(relativePath("../themes/pink-as-fox-blacker-color-theme.json"), theme);
-// /blacker
+writeJson(relativePath("../themes/pink-as-fox-variant-3-color-theme.json"), theme);

@@ -23,3 +23,9 @@
 ## 0.4.0
 
 - Update blacker badges
+
+## 0.5.0
+
+- Add theme variant
+- Update status bar
+- Update activity bar
