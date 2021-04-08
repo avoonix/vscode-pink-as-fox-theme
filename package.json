@@ -30,12 +30,12 @@
   "contributes": {
     "themes": [
       {
-        "label": "Pink as Fox (variant 1)",
+        "label": "Pink as Fox (black)",
         "uiTheme": "vs-dark",
         "path": "./themes/pink-as-fox-variant-1-color-theme.json"
       },
       {
-        "label": "Pink as Fox (variant 2)",
+        "label": "Pink as Fox (blacker)",
         "uiTheme": "vs-dark",
         "path": "./themes/pink-as-fox-variant-2-color-theme.json"
       },

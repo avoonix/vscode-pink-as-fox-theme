@@ -29,3 +29,10 @@
 - Add theme variant
 - Update status bar
 - Update activity bar
+
+## 1.0.0
+
+- Update theme names
+- Style title bars
+- Style menu
+- Style window border

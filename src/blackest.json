@@ -1,0 +1,44 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "colors": {
+    "statusBar.background": "#000000",
+    "statusBar.debuggingBackground": "#000000",
+    "statusBar.noFolderBackground": "#000000",
+    "statusBarItem.remoteBackground": "#000000",
+    "notificationCenterHeader.background": "#000000",
+    "dropdown.background": "#000000",
+    "checkbox.background": "#000000",
+    "badge.background": "#000000",
+    "extensionBadge.remoteBackground": "#000000",
+    "editorGroup.emptyBackground": "#000000",
+    "tab.activeBackground": "#000000",
+    "titleBar.activeBackground": "#000000",
+    "titleBar.border": "#541c42",
+    "window.activeBorder": "#541c42",
+    "titleBar.activeForeground": "#ff55c8",
+    "menubar.selectionBackground": "#ff55c8",
+    "menubar.selectionForeground": "#000000",
+    "titleBar.inactiveForeground": "#541c42",
+
+    "statusBar.foreground": "#ff55c8",
+    "statusBarItem.remoteForeground": "#ff55c8",
+    "notificationCenterHeader.foreground": "#ff55c8",
+    "dropdown.foreground": "#ff55c8",
+    "dropdown.border": "#ff55c8",
+    "checkbox.foreground": "#ff55c8",
+    "checkbox.border": "#ff55c8",
+
+    "badge.foreground": "#ff95dc",
+    "extensionBadge.remoteForeground": "#ff95dc",
+
+    "statusBarItem.hoverBackground": "#ff55c925",
+    "statusBarItem.activeBackground": "#ff55c960",
+
+    "statusBar.debuggingForeground": "#cc6633",
+    "statusBar.debuggingBorder": "#cc6633",
+    "statusBar.noFolderBorder": "#a033bb",
+    "statusBar.noFolderForeground": "#a033bb",
+
+    "statusBar.border": "#541c42"
+  }
+}

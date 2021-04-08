@@ -112,7 +112,21 @@
     "textLink.activeForeground": "#ffd4f1",
     "editorLineNumber.foreground": "#ffd4f1",
     "activityBar.background": "#000000",
-    "activityBar.border": "#541c42"
+    "activityBar.border": "#541c42",
+    "titleBar.activeBackground": "#ff55c8",
+    "titleBar.border": "#ff55c8",
+    "window.activeBorder": "#ff55c8",
+    "window.inactiveBorder": "#000000",
+    "titleBar.inactiveBackground": "#000000",
+    "titleBar.inactiveForeground": "#ff55c8",
+    "titleBar.activeForeground": "#000000",
+    "menubar.selectionBackground": "#000000",
+    "menubar.selectionForeground": "#ff55c8",
+    "menu.selectionBackground": "#ff55c8",
+    "menu.selectionForeground": "#000000",
+    "menu.separatorBackground": "#ff55c8",
+    "menu.background": "#000000",
+    "menu.foreground": "#ff55c8"
   },
   "tokenColors": [
     {
