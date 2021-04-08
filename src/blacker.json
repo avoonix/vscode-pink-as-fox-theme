@@ -1,0 +1,29 @@
+{
+  "$schema": "vscode://schemas/color-theme",
+  "colors": {
+    "statusBar.background": "#000000",
+    "statusBar.debuggingBackground": "#000000",
+    "statusBar.noFolderBackground": "#000000",
+    "statusBarItem.remoteBackground": "#000000",
+    "notificationCenterHeader.background": "#000000",
+    "dropdown.background": "#000000",
+    "checkbox.background": "#000000",
+
+    "statusBar.border": "#ff55c8",
+    "statusBar.foreground": "#ff55c8",
+    "statusBarItem.remoteForeground": "#ff55c8",
+    "notificationCenterHeader.foreground": "#ff55c8",
+    "dropdown.foreground": "#ff55c8",
+    "dropdown.border": "#ff55c8",
+    "checkbox.foreground": "#ff55c8",
+    "checkbox.border": "#ff55c8",
+
+    "statusBarItem.hoverBackground": "#ff55c925",
+    "statusBarItem.activeBackground": "#ff55c960",
+
+    "statusBar.debuggingForeground": "#cc6633",
+    "statusBar.debuggingBorder": "#cc6633",
+    "statusBar.noFolderBorder": "#a033bb",
+    "statusBar.noFolderForeground": "#a033bb"
+  }
+}

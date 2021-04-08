@@ -33,7 +33,15 @@
         "label": "Pink as Fox (black)",
         "uiTheme": "vs-dark",
         "path": "./themes/pink-as-fox-black-color-theme.json"
+      },
+      {
+        "label": "Pink as Fox (blacker)",
+        "uiTheme": "vs-dark",
+        "path": "./themes/pink-as-fox-blacker-color-theme.json"
       }
     ]
+  },
+  "scripts": {
+    "watch": "find . | entr node src/generate.mjs"
   }
 }
