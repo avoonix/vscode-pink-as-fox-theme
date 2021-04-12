@@ -36,3 +36,10 @@
 - Style title bars
 - Style menu
 - Style window border
+
+## 1.1.0
+
+- Update activity bar
+- Update cursor
+- Update pinned tab
+- Update image border

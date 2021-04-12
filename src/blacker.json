@@ -3,7 +3,7 @@
   "colors": {
     "activityBarBadge.background": "#000000",
     "activityBar.background": "#000000",
-    "activityBar.activeBackground": "#000000",
+    "activityBar.activeBackground": "#00000000",
     "activityBar.dropBorder": "#ff55c8",
     "activityBar.activeBorder": "#ff55c8",
     "activityBar.activeFocusBorder": "#ff55c8",
