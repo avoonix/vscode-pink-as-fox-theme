@@ -43,3 +43,7 @@
 - Update cursor
 - Update pinned tab
 - Update image border
+
+## 1.2.0
+
+- Update README

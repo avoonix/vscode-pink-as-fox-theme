@@ -2,7 +2,17 @@
 
 A theme for Visual Studio Code based on the Dark+ builtin theme.
 
-![screenshot](res/screenshot0.png)
+## Theme Variant `black`
+
+![screenshot](res/screenshot-black.png)
+
+## Theme Variant `blacker`
+
+![screenshot](res/screenshot-blacker.png)
+
+## Theme Variant `blackest`
+
+![screenshot](res/screenshot-blackest.png)
 
 ## Font Recommendation
 
@@ -13,6 +23,7 @@ A theme for Visual Studio Code based on the Dark+ builtin theme.
 ```jsonc
 {
     "workbench.tree.renderIndentGuides": "none",
+    "window.titleBarStyle": "custom",
 }
 ```
 
