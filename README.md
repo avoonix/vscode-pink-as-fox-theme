@@ -18,12 +18,16 @@ A theme for Visual Studio Code based on the Dark+ builtin theme.
 
 [Fira Code](https://github.com/tonsky/FiraCode)
 
-## Settings Recommendation
+## Settings Recommendations
 
 ```jsonc
 {
-    "workbench.tree.renderIndentGuides": "none",
+    // pink/black titlebar instead of OS-default
     "window.titleBarStyle": "custom",
+    // pink/black dialog instead of OS-default
+    "window.dialogStyle": "custom",
+    // pink/black save/open dialogs instead of OS-default
+    "files.simpleDialog.enable": true,
 }
 ```
 
