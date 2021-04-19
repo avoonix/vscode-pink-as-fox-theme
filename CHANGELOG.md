@@ -47,3 +47,7 @@
 ## 1.2.0
 
 - Update README
+
+## 1.3.0
+
+- Update table border

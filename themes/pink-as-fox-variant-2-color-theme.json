@@ -88,6 +88,7 @@
     "editorIndentGuide.background": "#541c42",
     "tab.lastPinnedBorder": "#541c42",
     "imagePreview.border": "#541c42",
+    "tree.tableColumnsBorder": "#541c42",
     "editor.lineHighlightBorder": "#ff55c925",
     "peekViewEditor.background": "#ff55c925",
     "sideBar.dropBackground": "#ff55c925",
