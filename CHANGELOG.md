@@ -51,3 +51,7 @@
 ## 1.3.0
 
 - Update table border
+
+## 1.4.0
+
+- Update editor border
