@@ -55,3 +55,8 @@
 ## 1.4.0
 
 - Update editor border
+
+## 1.5.0
+
+- Update secondary button
+- Update toolbar hover

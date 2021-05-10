@@ -132,7 +132,12 @@
     "menu.selectionForeground": "#000000",
     "menu.separatorBackground": "#ff55c8",
     "menu.background": "#000000",
-    "menu.foreground": "#ff55c8"
+    "menu.foreground": "#ff55c8",
+    "button.secondaryBackground": "#000000",
+    "button.secondaryForeground": "#ffd4f1",
+    "button.secondaryHoverBackground": "#ffd4f111",
+    "toolbar.hoverBackground": "#ff55c925",
+    "toolbar.activeBackground": "#541c42"
   },
   "tokenColors": [
     {
