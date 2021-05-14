@@ -60,3 +60,8 @@
 
 - Update secondary button
 - Update toolbar hover
+
+## 1.6.0
+
+- Update find matches
+- Update highlights
