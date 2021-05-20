@@ -72,3 +72,7 @@
 - Update selection color
 - Update comment color
 - Update description
+
+# 1.7.1
+
+- Update readme
