@@ -14,6 +14,14 @@ A theme for Visual Studio Code based on the Dark+ builtin theme.
 
 ![screenshot](res/screenshot-blackest.png)
 
+## Main Colors
+
+|            | Color                                                                       |
+| ---------- | --------------------------------------------------------------------------- |
+| Background | <img src="./res/000000.png"> #000000                                        |
+| Foreground | <img src="./res/ff55c8.png"> #ff55c8 / <img src="./res/ffd4f1.png"> #ffd4f1 |
+| Border     | <img src="./res/541c42.png"> #541c42                                        |
+
 ## Font Recommendation
 
 [Fira Code](https://github.com/tonsky/FiraCode)
@@ -22,12 +30,12 @@ A theme for Visual Studio Code based on the Dark+ builtin theme.
 
 ```jsonc
 {
-    // pink/black titlebar instead of OS-default
-    "window.titleBarStyle": "custom",
-    // pink/black dialog instead of OS-default
-    "window.dialogStyle": "custom",
-    // pink/black save/open dialogs instead of OS-default
-    "files.simpleDialog.enable": true,
+  // pink/black titlebar instead of OS-default
+  "window.titleBarStyle": "custom",
+  // pink/black dialog instead of OS-default
+  "window.dialogStyle": "custom",
+  // pink/black save/open dialogs instead of OS-default
+  "files.simpleDialog.enable": true
 }
 ```
 
