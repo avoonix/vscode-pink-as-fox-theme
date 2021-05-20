@@ -65,3 +65,10 @@
 
 - Update find matches
 - Update highlights
+
+# 1.7.0
+
+- Update highlight background colors
+- Update selection color
+- Update comment color
+- Update description
