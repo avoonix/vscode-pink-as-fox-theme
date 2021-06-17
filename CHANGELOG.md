@@ -76,3 +76,8 @@
 # 1.7.1
 
 - Update readme
+
+# 1.8.0
+
+- Update keybinding colors
+- Update quick input list colors
