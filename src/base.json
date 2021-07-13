@@ -169,7 +169,8 @@
     "editor.findMatchBorder": "#ffd4f1",
     "editor.findMatchBackground": "#00000000",
     "editor.findMatchHighlightBackground": "#00000000",
-    "list.highlightForeground": "#ffd4f1"
+    "list.highlightForeground": "#ffd4f1",
+    "list.activeSelectionIconForeground": "#000000"
   },
   "tokenColors": [
     {

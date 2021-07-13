@@ -81,3 +81,7 @@
 
 - Update keybinding colors
 - Update quick input list colors
+
+# 1.8.1
+
+- Fix `activeSelectionIconForeground` color

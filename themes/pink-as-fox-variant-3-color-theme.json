@@ -159,6 +159,7 @@
     "editor.findMatchBackground": "#00000000",
     "editor.findMatchHighlightBackground": "#00000000",
     "list.highlightForeground": "#ffd4f1",
+    "list.activeSelectionIconForeground": "#000000",
     "statusBar.debuggingBackground": "#000000",
     "statusBar.noFolderBackground": "#000000",
     "extensionBadge.remoteBackground": "#000000",
